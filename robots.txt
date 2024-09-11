@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://mowakacoci.netlify.app/sitemap.xml
